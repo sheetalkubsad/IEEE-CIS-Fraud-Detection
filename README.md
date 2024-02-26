@@ -10,7 +10,9 @@ Data Description
 The dataset consists of two main files:
 
 train_transaction.csv: Transaction data with features like transaction amount, card type, device information, etc.
+
 train_identity.csv: Identity data with features such as device type, browser type, etc.
+
 Requirements
 Python 3.x
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
