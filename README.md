@@ -1,4 +1,4 @@
-##Credit Card Fraud Detection System 💳🔍
+## Credit Card Fraud Detection System 💳🔍
 
 This project aims to detect fraudulent credit card transactions using machine learning techniques. It utilizes the IEEE-CIS Fraud Detection dataset, which contains anonymized transaction data labeled as fraudulent or genuine.
 
